@@ -1,0 +1,8 @@
+[package]
+name = "runner"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wasmtime = "35.0.0"
+wasmtime-wasi = "35.0.0"
